@@ -27,11 +27,7 @@
 
 ## **How to Use**
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/shabi340/TaxiAnalysis.git
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    ```bash
    cd nyc_taxi_analysis
 
